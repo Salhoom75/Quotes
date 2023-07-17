@@ -1,0 +1,14 @@
+.font {
+    font-family: 'Alegreya', serif;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.quote{
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.2)), url(../images/photo-1476673160081-cf065607f449.avif);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
